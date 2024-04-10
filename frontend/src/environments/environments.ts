@@ -1,5 +1,6 @@
 export const environment = {
     apiUrl: "",
+    dialogflowCxAgendId: "",
     firebaseConfig: {
         apiKey: "",
         authDomain: "",
